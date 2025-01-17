@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/0-HelloWorld/0-HelloWorld.iml" filepath="$PROJECT_DIR$/0-HelloWorld/0-HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-Basic/1-Basic.iml" filepath="$PROJECT_DIR$/1-Basic/1-Basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-Comments/2-Comments.iml" filepath="$PROJECT_DIR$/2-Comments/2-Comments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-ObjectAndClass/3-ObjectAndClass.iml" filepath="$PROJECT_DIR$/3-ObjectAndClass/3-ObjectAndClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
     </modules>
   </component>

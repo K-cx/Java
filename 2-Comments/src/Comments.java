@@ -7,8 +7,8 @@ public class Comments {
      * @param args
      */
     public static void main(String[] args) {
-        // 单行注释（方式一：独占一行）
-        System.out.println("这是在【Comments.java】中的“public”类的「psvm」的输出语句。");   // 单行注释（方式二：紧跟着代码后）
+        // 单行注释（方式一：独占一行，一般用来解释接下来的代码的含义）
+        System.out.println("这是在【Comments.java】中的“public”类的「psvm」的输出语句。");   // 单行注释（方式二：紧跟着代码后，一般用来解释当前行的代码的含义）
         /*
         多行注释
         （通过这种方式可以在【多行注释】的
